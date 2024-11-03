@@ -1,35 +1,37 @@
-| Name               | Numerischer Code | Alpha-2 | Alpha-3 |
-|--------------------|------------------|---------|---------|
-| Albernia           | 4                | AL      | ALB     |
-| Andro              | 8                | AN      | AND     |
-| Astor              | 12               | US      | USA     |
-| Aurora             | 16               | AU      | AUR     |
-| Bergen             | 20               | BE      | BER     |
-| Canberra           | 24               | CR      | CR      |
-| Dionysos           | 28               | DY      | DY      |
-| Dreibürgen         | 32               | DB      | KDB     |
-| Eldeyja            | 36               | EL      | ELD     |
-| Eulenthal          | 40               | EU      | EUL     |
-| Fuchsen            | 44               | FU      | FFU     |
-| Fusō               | 48               | FUS     | FUS     |
-| Futuna             | 52               | FU      | FUT     |
-| Gran Novara        | 56               | GN      | GN      |
-| Gurkistan          | 60               | GK      | GKN     |
-| Heijan             | 64               | HE      | HEI     |
-| Ladinien           | 68               | LA      | IL      |
-| Lagow              | 72               | LG      | LG      |
-| Livornien          | 76               | LB      | KBA     |
-| Montaña            | 80               | MO      | MON     |
-| Nordhanar          | 84               | NH      | NH      |
-| Nordmark           | 88               | NM      | NM      |
-| Ostchinopien       | 92               | OC      | OCH     |
-| Pottyland          | 96               | PL      | KPD     |
-| Ratelon            | 100              | RA      | DUR     |
-| San Cristóbal     | 104              | SC      | RSC     |
-| Severanien        | 108              | SE      | SEV     |
-| Soleado            | 112              | SO      | SOL     |
-| Targa              | 116              | TA      | TAR     |
-| Turanien           | 120              | TU      | TUR     |
-| Valsanto           | 124              | VA      | VAL     |
-| Verland            | 128              | VE      | VSV     |
-| Zedarien           | 132              | ZE      | KN      |
+# Standardisierte Codes für Mikronationen
+
+| Land | Numeric | Alpha-2 | Alpha-3 |
+|------|---------|---------|---------|
+| Albernia | 004 | AL | ALB |
+| Andro | 008 | AN | AND |
+| Astor | 012 | AS | AST |
+| Aurora | 016 | AU | AUR |
+| Bergen | 020 | BE | BER |
+| Cranberra | 024 | CR | CRN |
+| Dionysos | 028 | DY | DIO |
+| Dreibürgen | 032 | DB | KDB |
+| Eldeyja | 036 | EL | ELD |
+| Eulenthal | 040 | EU | EUL |
+| Fuchsen | 044 | FU | FFU |
+| Fusō | 048 | FS | FUS |
+| Futuna | 052 | FT | FUT |
+| Gran Novara | 056 | GN | GNV |
+| Gurkistan | 060 | GK | GKN |
+| Heijan | 064 | HE | HEI |
+| Ladinien | 068 | IL | LAD |
+| Lagow | 072 | LG | LAG |
+| Livornien | 076 | LV | KBA |
+| Montaña | 080 | MO | MON |
+| Nordhanar | 084 | NH | NHR |
+| Nordmark | 088 | NM | NDM |
+| Ostchinopien | 092 | OC | OCH |
+| Pottyland | 096 | PL | KPD |
+| Ratelon | 100 | RT | DUR |
+| San Cristóbal | 104 | SC | RSC |
+| Severanien | 108 | SV | SEV |
+| Soleado | 112 | SO | SOL |
+| Targa | 116 | TA | TAR |
+| Turanien | 120 | TU | TUR |
+| Valsanto | 124 | VA | VAL |
+| Verland | 128 | VS | VSV |
+| Zedarien | 132 | ZE | KNZ |
