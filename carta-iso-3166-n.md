@@ -1,35 +1,35 @@
-| Land               | Kürzel | Numerischer Code |
-|--------------------|--------|------------------|
-| Albernia           | ALB    | 4                |
-| Andro              | AND    | 8                |
-| Astor              | USA    | 12               |
-| Aurora             | AUR    | 16               |
-| Bergen             | BER    | 20               |
-| Canberra           | CR     | 24               |
-| Dionysos           | DY     | 28               |
-| Dreibürgen         | KDB    | 32               |
-| Eldeyja            | ELD    | 36               |
-| Eulenthal          | EUL    | 40               |
-| Fuchsen            | FFU    | 44               |
-| Fusō               | FUS    | 48               |
-| Futuna             | FUT    | 52               |
-| Gran Novara        | GN     | 56               |
-| Gurkistan          | GKN    | 60               |
-| Heijan             | HEI    | 64               |
-| Ladinien           | IL     | 68               |
-| Lagow              | LG     | 72               |
-| Livornien          | KBA    | 76               |
-| Montaña            | MON    | 80               |
-| Nordhanar          | NH     | 84               |
-| Nordmark           | NM     | 88               |
-| Ostchinopien       | OCH    | 92               |
-| Pottyland          | KPD    | 96               |
-| Ratelon            | DUR    | 100              |
-| San Cristóbal     | RSC    | 104              |
-| Severanien        | SEV    | 108              |
-| Soleado            | SOL    | 112              |
-| Targa              | TAR    | 116              |
-| Turanien           | TUR    | 120              |
-| Valsanto           | VAL    | 124              |
-| Verland            | VSV    | 128              |
-| Zedarien           | KN     | 132              |
+| Name               | Numerischer Code | Alpha-2 | Alpha-3 |
+|--------------------|------------------|---------|---------|
+| Albernia           | 4                | AL      | ALB     |
+| Andro              | 8                | AN      | AND     |
+| Astor              | 12               | US      | USA     |
+| Aurora             | 16               | AU      | AUR     |
+| Bergen             | 20               | BE      | BER     |
+| Canberra           | 24               | CR      | CR      |
+| Dionysos           | 28               | DY      | DY      |
+| Dreibürgen         | 32               | DB      | KDB     |
+| Eldeyja            | 36               | EL      | ELD     |
+| Eulenthal          | 40               | EU      | EUL     |
+| Fuchsen            | 44               | FU      | FFU     |
+| Fusō               | 48               | FUS     | FUS     |
+| Futuna             | 52               | FU      | FUT     |
+| Gran Novara        | 56               | GN      | GN      |
+| Gurkistan          | 60               | GK      | GKN     |
+| Heijan             | 64               | HE      | HEI     |
+| Ladinien           | 68               | LA      | IL      |
+| Lagow              | 72               | LG      | LG      |
+| Livornien          | 76               | LB      | KBA     |
+| Montaña            | 80               | MO      | MON     |
+| Nordhanar          | 84               | NH      | NH      |
+| Nordmark           | 88               | NM      | NM      |
+| Ostchinopien       | 92               | OC      | OCH     |
+| Pottyland          | 96               | PL      | KPD     |
+| Ratelon            | 100              | RA      | DUR     |
+| San Cristóbal     | 104              | SC      | RSC     |
+| Severanien        | 108              | SE      | SEV     |
+| Soleado            | 112              | SO      | SOL     |
+| Targa              | 116              | TA      | TAR     |
+| Turanien           | 120              | TU      | TUR     |
+| Valsanto           | 124              | VA      | VAL     |
+| Verland            | 128              | VE      | VSV     |
+| Zedarien           | 132              | ZE      | KN      |
