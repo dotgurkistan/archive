@@ -9,7 +9,7 @@
 | Dionysos | 028 | DY | DIO |
 | Dreibürgen | 032 | DB | KDB |
 | Eldeyja | 036 | EL | ELD |
-| Eulenthal | 040 | EU | EUL |
+| Eulenthal | 040 | ET | EUL |
 | Fuchsen | 044 | FU | FFU |
 | Fusō | 048 | FS | FUS |
 | Futuna | 052 | FT | FUT |
