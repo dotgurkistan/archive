@@ -1,6 +1,6 @@
 | Land | Numeric | Alpha-2 | Alpha-3 | Vorwahl |
 |------|---------|---------|---------|---------|
-| Albernia | 004 | AL | ALB |
+| Albernia | 004 | AL | ALB | +50 |
 | Andro | 008 | AN | AND |
 | Astor | 012 | US | USA |
 | Aurora | 016 | AU | AUR |
