@@ -1,5 +1,3 @@
-# Standardisierte Codes für Mikronationen
-
 | Land | Numeric | Alpha-2 | Alpha-3 |
 |------|---------|---------|---------|
 | Albernia | 004 | AL | ALB |
