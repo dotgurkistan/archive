@@ -13,8 +13,8 @@
 | Fuchsen | 044 | FU | FFU |
 | Fusō | 048 | FS | FUS |
 | Futuna | 052 | FT | FUT |
-| Gran Novara | 056 | GN | GNV |
-| Gurkistan | 060 | GK | GKN |
+| Gran Novara | 056 | GN | GNV | +523 |
+| Gurkistan | 060 | GK | GKN | +60 |
 | Heijan | 064 | HE | HEI |
 | Ladinien | 068 | IL | LAD |
 | Lagow | 072 | LG | LAG |
