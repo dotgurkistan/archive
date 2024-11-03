@@ -2,7 +2,7 @@
 |------|---------|---------|---------|
 | Albernia | 004 | AL | ALB |
 | Andro | 008 | AN | AND |
-| Astor | 012 | AS | USA |
+| Astor | 012 | US | USA |
 | Aurora | 016 | AU | AUR |
 | Bergen | 020 | BE | BER |
 | Cranberra | 024 | CR | CRN |
